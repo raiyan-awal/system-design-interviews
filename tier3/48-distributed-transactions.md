@@ -1,4 +1,4 @@
-# 19. Design a Distributed Transaction Manager
+# 48. Design a Distributed Transaction System
 
 ## Requirements
 
